@@ -282,7 +282,6 @@ jobs:
           /bin/bash -c "$(curl -fsSL \
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           dexcom_upload_readings \
-          2hlollipop \
           meal_days \
           profiles \
           basal_lock 
